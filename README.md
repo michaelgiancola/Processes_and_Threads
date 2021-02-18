@@ -2,4 +2,6 @@
 Operating System (OS) fundamentals including processes, threads, and means of communication.
 
 ## Key Learnings
-* creates multiple parent and child processes
+* Creating and handling multiple parent and child processes
+* Facilitating communication between processes through a [pipe](https://www.geeksforgeeks.org/pipe-system-call/)
+* Understanding the difference between a thread and process through data sharing capabilites
